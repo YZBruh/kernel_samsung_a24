@@ -1,8 +1,6 @@
 name: Build kernel
 
 on:
-  push:
-    tags: '*'
 
 jobs:
   build:
